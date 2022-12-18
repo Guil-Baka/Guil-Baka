@@ -41,7 +41,7 @@
 
 <p>
   <strong>You can contact me on: </strong><br>
-  <a href="guilam.dev@gmail.com" alt="Gmail">
+  <a href="mailto:guilam.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilam.dev@gmail.com" /></a>
   
   <a href="https://www.linkedin.com/in/guilherme-almeida-ab1aa0206/" alt="Linkedin">
@@ -50,6 +50,8 @@
   <a href="https://wa.me/552197571149" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/552197571149"/></a>
 </p>
+  
+  
 <!---
 Guil-Baka/Guil-Baka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
