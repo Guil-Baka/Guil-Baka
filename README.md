@@ -41,7 +41,7 @@
 
 <p>
   <strong>You can contact me on: </strong><br>
-  <a href="guilam.dev@gmail.com" alt="Gmail">
+  <a href="mailto:guilam.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilam.dev@gmail.com" /></a>
   
   <a href="https://www.linkedin.com/in/guilherme-almeida-ab1aa0206/" alt="Linkedin">
