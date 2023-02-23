@@ -1,6 +1,6 @@
 # :computer:Welcome:computer:
 
-<img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" min-width="200px" max-width="400px" width="325px" align="Left">
+<img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" min-width="100px" max-width="400px" width="325px" align="Left">
 
 <p Align="left">
   Hello! I'm Guilherme, a 22 year old student from <strong>Rio de janeiro, Brazil</strong> :brazil:. <br>
