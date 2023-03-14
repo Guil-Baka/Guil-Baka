@@ -54,10 +54,10 @@
   <a href="https://wa.me/552197571149" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/552197571149"/></a>
   
-  <a href="https://discord.com/users/301415044527161344" alt="WhatsApp">
+  <a href="https://discord.com/users/301415044527161344" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&link=https://discord.com/users/301415044527161344"/></a>
   
-  <a href="https://twitter.com/Guil0Baka" alt="WhatsApp">
+  <a href="https://twitter.com/Guil0Baka" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/Guil0Baka"/></a>
   
 </p>
