@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/Guil0Baka"/></a>
   
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guil-baka)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!---
