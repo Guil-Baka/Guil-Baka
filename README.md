@@ -8,7 +8,7 @@
 </p>
 <h2>:purple_circle:About me:</h2>
 <p Align="left">
-  I have a lot of interests: <strong>Gaming, Cars, Bikes, Aviation, Music, Hardware, Software(duh), <span style="color:blue">Electronics</span> and any kind of Motor racing</strong><Br><Br>
+  I have a lot of interests: <strong>Gaming, Cars, Bikes, Aviation, Music, Hardware, Software(duh), Electronics and any kind of Motor racing</strong><Br><Br>
   Mainly spend a lot of time gaming and simracing, love to do DIY activities in the house from small repair to full arduino projects
 </p>
 
@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width= "5%"max-width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "5%"max-width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" width= "5%"max-width="50px" color="white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" width= "5%"max-width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "5%"max-width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "5%"max-width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width= "5%"max-width="50px"/>   
