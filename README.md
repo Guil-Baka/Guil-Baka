@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" width="35%" align="Left">
 
 <p Align="left">
-  Hello! I'm Guilherme, a 23 year old student from <strong>Rio de janeiro, Brazil</strong> :brazil:. <br>
+  Hello! I'm Guilherme, a 24 year old student from <strong>Rio de janeiro, Brazil</strong> :brazil:. <br>
   Currently in university at <strong>FAETERJ-RIO</strong>. <br>
 </p>
 <h2>:purple_circle:About me:</h2>
