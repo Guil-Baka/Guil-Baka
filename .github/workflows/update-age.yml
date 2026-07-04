@@ -2,7 +2,8 @@ name: Update age in README
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily at 03:00 UTC
+    - cron: "0 3 8 5 *" # 03:00 UTC = 00:00 Brazil (UTC-3) on May 8 (add egg + age update)
+    - cron: "0 3 9 5 *" # 03:00 UTC = 00:00 Brazil (UTC-3) on May 9 (remove egg)
   workflow_dispatch:
 
 permissions:
