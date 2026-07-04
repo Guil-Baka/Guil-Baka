@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" width="30%" align="right" alt="profile illustration"/>
 
 ### About me
+
 I'm **Guilherme**, from **Rio de Janeiro, Brazil** <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/svg/BR.svg" width="18" alt="Brazil flag" />.  
 Currently studying at **FAETERJ-RIO** and working as a **Data Scientist** focused on building data products and scalable pipelines.
 
@@ -20,12 +21,19 @@ Currently studying at **FAETERJ-RIO** and working as a **Data Scientist** focuse
 ```javascript
 const guilherme = {
   location: "Rio de Janeiro, Brazil",
-  age: "<!--AGE_START-->26<!--AGE_END-->",
+  age: "26",
   education: "FAETERJ-RIO 🎓",
   role: "Data Scientist",
-  stack: ["Python", "Databricks", "PySpark", "Azure DevOps", "React", "Tailwind CSS"],
+  stack: [
+    "Python",
+    "Databricks",
+    "PySpark",
+    "Azure DevOps",
+    "React",
+    "Tailwind CSS",
+  ],
   vibe: "Building stuff, breaking stuff, learning stuff 💻",
-  motto: "If it has wheels, an engine, or runs code — I'm interested"
+  motto: "If it has wheels, an engine, or runs code — I'm interested",
 };
 ```
 
@@ -38,6 +46,7 @@ const guilherme = {
 ## 🧰 Tech Stack
 
 ### Data Science & Data Engineering
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
@@ -48,6 +57,7 @@ const guilherme = {
 </p>
 
 ### Backend & Frontend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
@@ -58,6 +68,7 @@ const guilherme = {
 </p>
 
 ### Also used
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
@@ -71,6 +82,7 @@ const guilherme = {
 ---
 
 ## 🎯 Current Focus
+
 - Deepening knowledge in **Databricks architecture** and **PySpark optimization**
 - Improving **MLOps / CI-CD** workflows with **Azure DevOps**
 - Evolving full-stack skills with **Python APIs + React apps**
@@ -79,6 +91,7 @@ const guilherme = {
 ---
 
 ## 📫 Connect with me
+
 <p>
   <a href="mailto:guilam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -100,6 +113,7 @@ const guilherme = {
 ---
 
 ## 📊 GitHub Stats
+
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guil-Baka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil-Baka&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
@@ -107,4 +121,4 @@ const guilherme = {
 
 ---
 
-> *"Turning data into decisions — and ideas into products."*
+> _"Turning data into decisions — and ideas into products."_
