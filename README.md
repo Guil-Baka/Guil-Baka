@@ -1,75 +1,110 @@
-# :computer:Welcome:computer:
+# Hey there, I'm Guilherme 👋
 
-<img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" width="35%" align="Left">
+<img src="https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg" width="30%" align="right" alt="profile illustration"/>
 
-<p Align="left">
-  Hello! I'm Guilherme, a 26 year old student from <strong>Rio de janeiro, Brazil</strong> :brazil:. <br>
-  Currently in university at <strong>FAETERJ-RIO</strong>. <br>
-</p>
-<h2>:purple_circle:About me:</h2>
-<p Align="left">
-  I have a lot of interests: <strong>Gaming, Cars, Bikes, Aviation, Music, Hardware, Software(duh), Electronics and any kind of Motor racing</strong><Br><Br>
-  Mainly spend a lot of time gaming and simracing, love to do DIY activities in the house from small repair to full arduino projects
-</p>
+### About me
+I'm **Guilherme**, from **Rio de Janeiro, Brazil** <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/svg/BR.svg" width="18" alt="Brazil flag" />.  
+Currently studying at **FAETERJ-RIO** and working as a **Data Scientist** focused on building data products and scalable pipelines.
 
-<h1>
-</h1>
-  
-  <br>
-  
-  
+- 🔭 Working with **Python, Databricks, PySpark, and Azure DevOps**
+- 🧠 Interested in **Machine Learning, Data Engineering, and Analytics**
+- ⚙️ Still enjoy building things end-to-end with:
+  - **Backend:** Python
+  - **Frontend:** React
+- 🏎️ Outside tech: gaming, simracing, cars, bikes, aviation, electronics, and DIY projects
 
-<p align="left"><strong>:large_blue_circle:What i can use:<br></strong>     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width= "5%"max-width="50px"/>   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width= "5%"max-width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "5%"max-width="50px"/>          
-</p>
+---
 
-<h2>:purple_circle:What i want to do:</h2>
-<p>
-  I want to dedicate myself more to my studies, need to learn a bit more about Material UI, Docker and Javascript
-  Want to start studying Python, Typescript and dip into some game development whit Unreal engine.
-</p>
-<h1></h1>
+## ⚡ WHO AM I?
+
+```javascript
+const guilherme = {
+  location: "Rio de Janeiro, Brazil",
+  age: "<!--AGE_START-->26<!--AGE_END-->",
+  education: "FAETERJ-RIO 🎓",
+  role: "Data Scientist",
+  stack: ["Python", "Databricks", "PySpark", "Azure DevOps", "React", "Tailwind CSS"],
+  vibe: "Building stuff, breaking stuff, learning stuff 💻",
+  motto: "If it has wheels, an engine, or runs code — I'm interested"
+};
+```
 
 <p>
-  <strong>You can contact me on: </strong><br>
-  <a href="mailto:guilam.dev@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilam.dev@gmail.com" /></a>
-  
-  <a href="https://www.linkedin.com/in/guilherme-almeida-ab1aa0206/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-almeida-ab1aa0206/" /></a>
-  
-  <a href="https://wa.me/5521975711492?text=Ol%C3%A1!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://https://wa.me/5521975711492?text=Ol%C3%A1!"/></a>
-
-  
-  <a href="https://discord.com/users/301415044527161344" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&link=https://discord.com/users/301415044527161344"/></a>
-  
-  <a href="https://twitter.com/Guil0Baka" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/Guil0Baka"/></a>
-  
+  <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/svg/BR.svg" width="22" alt="Brazil flag" /> Brazil-based
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guil-baka&layout=compact)
-<!---
-Guil-Baka/Guil-Baka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-<!---
-![undraw_firmware_re_fgdy](https://user-images.githubusercontent.com/54013549/208317786-33c283fc-dba2-4614-a798-1840cc12a01f.svg)
+## 🧰 Tech Stack
 
---->
+### Data Science & Data Engineering
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" alt="Azure"/>
+</p>
+
+### Backend & Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" alt="Tailwind CSS"/>
+</p>
+
+### Also used
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+- Deepening knowledge in **Databricks architecture** and **PySpark optimization**
+- Improving **MLOps / CI-CD** workflows with **Azure DevOps**
+- Evolving full-stack skills with **Python APIs + React apps**
+- Studying to become a great **Data Engineer**
+
+---
+
+## 📫 Connect with me
+<p>
+  <a href="mailto:guilam.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-almeida-ab1aa0206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5521975711492?text=Ol%C3%A1!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://discord.com/users/301415044527161344" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/Guil0Baka" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guil-Baka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil-Baka&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+> *"Turning data into decisions — and ideas into products."*
